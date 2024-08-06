@@ -1,4 +1,3 @@
-cat test.sh
 #!/bin/bash
 
 INPUT_FILE="your_input_file.txt"
